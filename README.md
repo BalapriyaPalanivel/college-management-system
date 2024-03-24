@@ -16,7 +16,7 @@ The College Management System aims to simplify administrative tasks within educa
 **Python**: Programming language used for application development.
 **MySQL**: Database management system for storing user data.
 **mysql-connector-python**: Python library for connecting to MySQL database.
-**IDE**: Any Python-compatible integrated development environment (IDE) such as PyCharm, VSCode, or Sublime Text.
+**IDE**: VSCode.
 
 ## Tech Stack
 **Frontend**: Command-line interface (CLI) for user interaction.
